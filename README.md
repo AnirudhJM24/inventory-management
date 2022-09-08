@@ -1,6 +1,6 @@
 # inventory-management
 Inventory management app using django and python
-#RUNNING THE PROGRAM
+# RUNNING THE PROGRAM
 ```
 python3 manage.py runserver
 
